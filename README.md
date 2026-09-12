@@ -5,7 +5,7 @@ The counter tracks unique players and is saved in `config/players_joined.txt`.
 
 # Informations 
 
-Your server need to be an Forge 26.2, and you already have all the source code, so if you have some problem ask AI please, i don't want to be asked for an AI, can litteraly say the problems in 1 mins.
+Just you need your server need to be an Forge 26.2.
 
 ## Installation 
 
