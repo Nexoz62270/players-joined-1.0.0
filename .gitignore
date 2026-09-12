@@ -1,3 +1,5 @@
+# all compiled file it's in this .gitignore and etc..., so github don't need it for being open source.
+
 # Gradle
 .gradle/
 build/
