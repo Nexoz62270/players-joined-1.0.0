@@ -13,3 +13,4 @@ Btw it's for an shockbyte server only
 4. Place the `.jar` file in the server's `mods` folder.
 5. Restart the server.
 
+![A brief overview of the mod](images/screenshot.png)
