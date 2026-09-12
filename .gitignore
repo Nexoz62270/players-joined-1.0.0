@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+
+# ForgeGradle / Minecraft generated files
+run/
+run-data/
+logs/
+crash-reports/
+user_jvm_args.txt
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+eclipse/
+*.launch
+
+# Java
+*.class
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

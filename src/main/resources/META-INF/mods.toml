@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[65.1,)"
+license="MIT"
+
+[[mods]]
+modId="playersjoined"
+version="1.0.0"
+displayName="Players Joined Counter"
+authors="Server Owner"
+description='''Displays the number of unique players who have joined the server.'''
+
+[[dependencies.playersjoined]]
+modId="forge"
+mandatory=true
+versionRange="[65.1,)"
+ordering="NONE"
+side="SERVER"
+
+[[dependencies.playersjoined]]
+modId="minecraft"
+mandatory=true
+versionRange="[26.2,26.3)"
+ordering="NONE"
+side="SERVER"
