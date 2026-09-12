@@ -3,7 +3,7 @@
 This mod displays a Minecraft boss bar at the top of the screen: `Players Joined: X/10000`.
 The counter tracks unique players and is saved in `config/players_joined.txt`.
 
-# Informations of it
+# Informations 
 
 Your server need to be an Forge 26.2, and you already have all the source code, so if you have some problem ask AI please, i don't want to be asked for an AI, can litteraly say the problems in 1 mins.
 
