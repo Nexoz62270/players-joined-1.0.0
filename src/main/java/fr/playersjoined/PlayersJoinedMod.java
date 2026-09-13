@@ -1,6 +1,3 @@
-// The Entire Mods
-// Read "LICENSE" File for more information
-
 package fr.playersjoined;
 
 import net.minecraft.network.chat.Component;
